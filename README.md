@@ -15,22 +15,16 @@ new feature : support multiple image (bulk)
 #### output :
 ```json
 {
-    "code": 200,
-    "type": "bulk-image",
-    "author": "kabaraceh",
-    "caption": "Kabar Aceh Indonesia on Instagram: “Kecelakaan Sempati Star vs Xenia, 6 Orang Meninggal Dunia  ACEH TIMUR – Enam orang dilaporkan meninggal dunia dalam kecelakaan lalu lintas…”",
-    "like": "17.2k",
-    "comment": "417",
-    "images_url": [
-        {
-            "0": "https://instagram.fcgk13-1.fna.fbcdn.net/vp/043c82b0cb6f51dd374ca30c271d2116/5DA00C02/t51.2885-15/e35/61710933_441011100028356_1200308344843473952_n.jpg?_nc_ht=instagram.fcgk13-1.fna.fbcdn.net",
-            "2": "https://instagram.fcgk13-1.fna.fbcdn.net/vp/2e13abd5c13663cda3e25ef9264946db/5D8D43CC/t51.2885-15/e35/62259939_496632521075600_2060760074525648447_n.jpg?_nc_ht=instagram.fcgk13-1.fna.fbcdn.net"
-        }
-    ],
-    "total_record": 2
+  "code": 200,
+  "type": "image",
+  "author": "thanhdesigns",
+  "caption": "Instagram’s Instagram post: “Let’s get vaccinated ❤️⁣ ⁣ Designer Thanh Evan Nguyen (@thanhdesigns) made this illustration for World Immunization Week in the lively…”",
+  "like": "367k",
+  "comment": "13k",
+  "image_url": "https://scontent-sin6-1.cdninstagram.com/v/t51.2885-15/e35/p1080x1080/178134346_861832148007551_4044074381470185061_n.jpg?tp=1&_nc_ht=scontent-sin6-1.cdninstagram.com&_nc_cat=111&_nc_ohc=4c9I7t_xRO8AX-hahlX&edm=AABBvjUBAAAA&ccb=7-4&oh=c6861fd7ed42ee9c50dc9195caaa17d9&oe=60D66FDC&_nc_sid=83d603"
 }
 ```
 
 #### Dev :
- * @author    ren <ren_ice@live.com>
- * @author    [adit.web.id](https://adit.web.id)
+ * @author    romaa <contact.romaa@gmail.com>
+ * @author    [romadhon.my.id](https://romadhonaji.my.id)
